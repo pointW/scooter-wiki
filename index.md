@@ -10,7 +10,7 @@ Download all solidworks file [here]({{ site.url }}/download/scooter-UR5.zip).
 [Scooter plate clamp]({{ site.url }}/download/scooter plate clamp.STL) is printed.
 
 ## Workstation Mount
-Download all solidworks file [here]({{ site.url }}/download/scooter desktop support.zip)
+Download all solidworks file [here]({{ site.url }}/download/scooter desktop support.zip).
 
 ## Sensor Mount Bar
 ### U Structure
