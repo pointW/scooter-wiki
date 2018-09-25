@@ -32,4 +32,6 @@ Download STL file for [left sensor mount]({{ site.url }}/download/sensor_left.ST
 
 [Key Stick](https://www.amazon.com/dp/B00EZ43FJU/ref=sxbs_sxwds-stppvp_3?pf_rd_m=ATVPDKIKX0DER&pf_rd_p=6297546923292665688&pd_rd_wg=gfYMO&pf_rd_r=S4CT56DZSN918H7EFB43&pf_rd_s=desktop-sx-bottom-slot&pf_rd_t=301&pd_rd_i=B00EZ43FJU&pd_rd_w=oR4II&pf_rd_i=usb%2Bkey%2Bbutton&pd_rd_r=7d1eea38-98a7-4dd3-bbd0-53d679cc9287&ie=UTF8&qid=1531508002&sr=3&th=1)
 
+## Accessory
+[PCIe USB extension card](https://www.amazon.com/gp/product/B00HJZEA2S/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1). This card have 4 buses for each port, it is used for connecting sensors.
 
