@@ -19,7 +19,7 @@ Download shopping list of 80/20 [here]({{ site.url }}/download/camera_mount_shop
 ### Up Sensor
 Download shopping list of 80/20 [here]({{ site.url }}/download/up_camera_shopping_list.pdf) or [add everything to shopping cart](https://8020.net/wishlist/shared/allcart/code/b696cce3c54f89791c4523c50ee2bbc2/).
 
-## Sensor Mount
+## Sensor Mount Part
 Download STL file for [left sensor mount]({{ site.url }}/download/sensor_left.STL), [right sensor mount]({{ site.url }}/download/sensor_right.STL), and [up sensor mount]({{ site.url }}/download/sensor_up.STL).
 
 ## Sensor
