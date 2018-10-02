@@ -25,6 +25,9 @@ Download STL file for [left sensor mount]({{ site.url }}/download/sensor_left.ST
 ## Sensor
 [Structure IO](https://store.structure.io/store)
 
+## Pictures
+[Link](https://drive.google.com/file/d/1N_9H5czzhrzimnc3Q_ZQvNRgLIZjApFr/view?usp=sharing)
+
 ## Interface
 [Monitor](https://www.amazon.com/TOGUARD-Touchscreen-1280x800-Portable-Earphone/dp/B01H04GENA/ref=sr_1_3?ie=UTF8&qid=1531515580&sr=8-3&keywords=10+inch+touchscreen+monitor)
 
@@ -34,4 +37,3 @@ Download STL file for [left sensor mount]({{ site.url }}/download/sensor_left.ST
 
 ## Accessory
 [PCIe USB extension card](https://www.amazon.com/gp/product/B00HJZEA2S/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1). This card have 4 buses for each port, it is used for connecting sensors.
-
